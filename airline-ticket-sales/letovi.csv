@@ -1,0 +1,27 @@
+re22|AER|KZN|06:30|09:05|False|Airline NC|[2, 6]|{'id': 2, 'naziv': 'Airbus A300', 'broj_redova': 40, 'pozicije_sedista': ['A', 'B', 'C', 'D', 'E']}|245.53|2023-01-10 00:00:00|2023-03-01 00:00:00
+as12|GKA|AYG|23:35|04:10|True|Flynes|[1, 4, 5]|{'id': 1, 'naziv': 'Boeing 747', 'broj_redova': 60, 'pozicije_sedista': ['A', 'B', 'C', 'D', 'E', 'F']}|349.95|2022-11-15 00:00:00|2022-12-15 00:00:00
+fr87|ASF|KZN|18:00|19:55|False|Flynes|[0, 2, 4]|{'id': 1, 'naziv': 'Boeing 747', 'broj_redova': 60, 'pozicije_sedista': ['A', 'B', 'C', 'D', 'E', 'F']}|299.43|2023-02-20 00:00:00|2023-04-01 00:00:00
+ma55|CEK|KZN|14:35|17:05|False|Airline NC|[0, 2, 5]|{'id': 3, 'naziv': 'BAe', 'broj_redova': 40, 'pozicije_sedista': ['A', 'B', 'C', 'D', 'E', 'F']}|269.0|2022-08-10 00:00:00|2022-10-20 00:00:00
+tc41|KZN|OVB|18:00|19:25|False|Airline NC|[0, 2, 5]|{'id': 2, 'naziv': 'Airbus A300', 'broj_redova': 40, 'pozicije_sedista': ['A', 'B', 'C', 'D', 'E']}|193.53|2022-09-01 00:00:00|2022-10-15 00:00:00
+rg25|DME|KZN|06:23|10:00|False|Flynes|[2, 4, 6]|{'id': 1, 'naziv': 'Boeing 747', 'broj_redova': 60, 'pozicije_sedista': ['A', 'B', 'C', 'D', 'E', 'F']}|423.43|2023-01-10 00:00:00|2023-03-01 00:00:00
+gk42|KZN|LED|11:05|13:24|False|FlyFly|[2, 4, 6]|{'id': 3, 'naziv': 'BAe', 'broj_redova': 40, 'pozicije_sedista': ['A', 'B', 'C', 'D', 'E', 'F']}|352.34|2023-01-05 00:00:00|2023-03-10 00:00:00
+nm78|DME|NBC|22:15|01:30|True|Flynes|[0, 4, 5]|{'id': 2, 'naziv': 'Airbus A300', 'broj_redova': 40, 'pozicije_sedista': ['A', 'B', 'C', 'D', 'E']}|200.42|2023-01-14 00:00:00|2023-02-10 00:00:00
+ra21|NBC|KZN|02:10|03:55|False|Flynes|[1, 5, 6]|{'id': 2, 'naziv': 'Airbus A300', 'broj_redova': 40, 'pozicije_sedista': ['A', 'B', 'C', 'D', 'E']}|434.41|2023-01-07 00:00:00|2023-03-11 00:00:00
+op14|DME|TGK|10:00|12:13|False|Airline NC|[0, 4, 5]|{'id': 3, 'naziv': 'BAe', 'broj_redova': 40, 'pozicije_sedista': ['A', 'B', 'C', 'D', 'E', 'F']}|223.43|2022-08-10 00:00:00|2022-09-15 00:00:00
+tv43|DME|UUA|15:40|19:11|False|Airline NC|[1, 3, 4]|{'id': 2, 'naziv': 'Airbus A300', 'broj_redova': 40, 'pozicije_sedista': ['A', 'B', 'C', 'D', 'E']}|315.41|2022-11-06 00:00:00|2023-01-04 00:00:00
+ms59|EGO|KGD|18:00|19:42|False|FlyFly|[0, 2, 6]|{'id': 1, 'naziv': 'Boeing 747', 'broj_redova': 60, 'pozicije_sedista': ['A', 'B', 'C', 'D', 'E', 'F']}|361.43|2023-10-01 00:00:00|2023-11-04 00:00:00
+tt90|EGO|KZN|13:45|17:25|False|FlyFly|[0, 4, 5]|{'id': 3, 'naziv': 'BAe', 'broj_redova': 40, 'pozicije_sedista': ['A', 'B', 'C', 'D', 'E', 'F']}|450.44|2023-04-22 00:00:00|2023-05-27 00:00:00
+ml11|GYD|NBC|09:35|13:13|False|Flynes|[1, 3, 4]|{'id': 2, 'naziv': 'Airbus A300', 'broj_redova': 40, 'pozicije_sedista': ['A', 'B', 'C', 'D', 'E']}|235.54|2022-12-03 00:00:00|2023-01-05 00:00:00
+xs73|KGD|EGO|06:15|09:00|False|Flynes|[0, 4, 5]|{'id': 1, 'naziv': 'Boeing 747', 'broj_redova': 60, 'pozicije_sedista': ['A', 'B', 'C', 'D', 'E', 'F']}|490.43|2022-09-07 00:00:00|2022-10-01 00:00:00
+hu61|KZN|AER|17:55|19:25|False|Flynes|[1, 3, 4]|{'id': 1, 'naziv': 'Boeing 747', 'broj_redova': 60, 'pozicije_sedista': ['A', 'B', 'C', 'D', 'E', 'F']}|371.42|2023-07-22 00:00:00|2023-08-30 00:00:00
+uj77|KZN|ASF|14:05|16:00|False|FlyFly|[0, 4, 5]|{'id': 3, 'naziv': 'BAe', 'broj_redova': 40, 'pozicije_sedista': ['A', 'B', 'C', 'D', 'E', 'F']}|415.43|2023-04-21 00:00:00|2023-05-28 00:00:00
+id15|KZN|CEK|21:55|01:10|True|Airline NC|[1, 3, 4]|{'id': 2, 'naziv': 'Airbus A300', 'broj_redova': 40, 'pozicije_sedista': ['A', 'B', 'C', 'D', 'E']}|312.43|2022-08-12 00:00:00|2022-09-20 00:00:00
+br45|KZN|DME|12:30|14:40|False|FlyFly|[0, 4, 5]|{'id': 3, 'naziv': 'BAe', 'broj_redova': 40, 'pozicije_sedista': ['A', 'B', 'C', 'D', 'E', 'F']}|190.43|2022-11-13 00:00:00|2023-01-02 00:00:00
+kl60|KZN|EGO|18:00|19:35|False|Flynes|[0, 2, 6]|{'id': 1, 'naziv': 'Boeing 747', 'broj_redova': 60, 'pozicije_sedista': ['A', 'B', 'C', 'D', 'E', 'F']}|255.43|2022-03-23 00:00:00|2022-05-04 00:00:00
+lk77|KZN|LED|05:25|07:40|False|FlyFly|[0, 2, 6]|{'id': 3, 'naziv': 'BAe', 'broj_redova': 40, 'pozicije_sedista': ['A', 'B', 'C', 'D', 'E', 'F']}|340.43|2022-12-01 00:00:00|2023-01-18 00:00:00
+bd35|EGO|GYD|22:50|01:10|True|FlyFly|[2]|{'id': 3, 'naziv': 'BAe', 'broj_redova': 40, 'pozicije_sedista': ['A', 'B', 'C', 'D', 'E', 'F']}|402.23|2022-09-19 00:00:00|2022-11-01 00:00:00
+al62|EGO|CEK|18:00|20:55|False|Airline NC|[0, 4, 5]|{'id': 3, 'naziv': 'BAe', 'broj_redova': 40, 'pozicije_sedista': ['A', 'B', 'C', 'D', 'E', 'F']}|342.41|2023-02-02 00:00:00|2023-03-20 00:00:00
+nr51|CEK|EGO|22:00|00:25|True|Airline NC|[4, 5]|{'id': 3, 'naziv': 'BAe', 'broj_redova': 40, 'pozicije_sedista': ['A', 'B', 'C', 'D', 'E', 'F']}|378.42|2023-02-10 00:00:00|2023-03-31 00:00:00
+jr41|EGO|DME|12:00|14:32|False|Airline NC|[1, 4]|{'id': 2, 'naziv': 'Airbus A300', 'broj_redova': 40, 'pozicije_sedista': ['A', 'B', 'C', 'D', 'E']}|342.53|2023-03-15 00:00:00|2023-04-10 00:00:00
+mm69|LED|GYD|10:30|12:15|False|FlyFly|[0]|{'id': 1, 'naziv': 'Boeing 747', 'broj_redova': 60, 'pozicije_sedista': ['A', 'B', 'C', 'D', 'E', 'F']}|352.34|2023-02-01 00:00:00|2023-03-03 00:00:00
+yr34|KZN|DME|13:00|14:55|False|Airline NC|[1, 4]|{'id': 1, 'naziv': 'Boeing 747', 'broj_redova': 60, 'pozicije_sedista': ['A', 'B', 'C', 'D', 'E', 'F']}|299.42|2023-02-10 00:00:00|2023-03-20 00:00:00
